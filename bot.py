@@ -2,7 +2,7 @@ import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, WebAppInfo
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = os.environ.get("BOT_TOKEN")
+TOKEN = os.environ.get("8716311827:AAHemWBB9X8srTr8pqmaHz4Zhj1F_T7exVA")
 WEB_APP_URL = "https://project-nv8gi.vercel.app/"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):

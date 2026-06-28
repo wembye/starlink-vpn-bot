@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, WebAppI
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 TOKEN = "8716311827:AAHemWBB9X8srTr8pqmaHz4Zhj1F_T7exVA"
-WEB_APP_URL = "https://starlink-shield-vpn-43420786672.europe-west2.run.app/"
+WEB_APP_URL = "https://project-nv8gi.vercel.app/"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = [[

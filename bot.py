@@ -7,7 +7,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "ВСТАВЬ_ТОКЕН_СЮДА"
+TOKEN = "8716311827:AAHemWBB9X8srTr8pqmaHz4Zhj1F_T7exVA"
 WEB_APP_URL = os.environ.get("WEB_APP_URL", "https://project-nv8gi.vercel.app/")
 ADMIN_ID = 5396498498
 
